@@ -1,14 +1,27 @@
 import cv2
 import numpy as np
 import math
-
-# I found some of the code i am using over here ath this web page.
+# This program was written by David Metcalf
+# on or about the time of ‎‎December ‎31, ‎2020, ‏‎7:05:03 AM
+# Please give credit where credit is due.
+#
+# I googled a picture of a "cat head" I honestly do not know who
+# owns the rights to this picture, if any one know who this
+# picture belongs to, I would be happy to give them credit
+# here / ask for their permission to use the image.
+# Please drop a note in the readme file if you know.
+#
+# I found some of the code i am using over here at this web page.
 # https://github.com/aydal/Cylinderical-Anamorphosis/blob/master/anamorph.py
 # I found the above formentioned web page, when I found the one below.
 # I found the one below, by typing "opencv python animorphic"
 # into a google web search.
 # https://stackoverflow.com/questions/54271864/anamorphosis-in-python
-
+# with in this web page their was another link to a git hub page found here
+# https://github.com/aydal/Cylinderical-Anamorphosis/blob/master/anamorph.py
+#
+# my current github repo is here
+# https://github.com/DoomsdayRobots/Adjustable-Arch-Image-Converter
 
 slider1_max = 20
 slider1_min = 1
